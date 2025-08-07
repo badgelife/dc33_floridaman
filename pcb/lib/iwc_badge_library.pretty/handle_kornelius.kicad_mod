@@ -1,0 +1,12 @@
+(footprint "handle_kornelius" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -2.26 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 031c9993-e6d5-4bb7-a9cf-1dedafc468e6)
+  )
+  (fp_text value "handle_kornelius" (at 0 1 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 52870f84-a363-48a3-b453-7b3d4840e500)
+  )
+)
